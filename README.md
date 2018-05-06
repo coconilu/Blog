@@ -8,8 +8,8 @@
 
 ## 关于 “JS运行原理” 的系列博客
 
-1. JS运行原理
-2. 浏览器进程
+1. [JS运行原理](https://github.com/coconilu/Blog/issues/2)
+2. [浏览器进程](https://github.com/coconilu/Blog/issues/5)
 3. 执行上下文
 4. 类相关
 5. 异步编程与事件循环
