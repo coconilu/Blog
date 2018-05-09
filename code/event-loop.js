@@ -96,21 +96,33 @@
 //     console.log(d4 = new Date())
 // }, 1000)
 
-// 验证setInterval的覆盖情况
+// 验证setInterval的覆盖情况，nodejs
 // console.log(new Date())
-// setTimeout(()=>{
-//     var d, num=0;
-//     setInterval(()=>{
+// setTimeout(() => {
+//     var d, num = 0;
+//     setInterval(() => {
 //         var dd;
 //         console.log(new Date())
 //         console.log(num)
 //         ++num
 //         dd = +new Date();
 //         while (+new Date() - dd < 2000);// 延迟3秒
-//     },1000)
+//     }, 1000)
 //     d = +new Date();
 //     while (+new Date() - d < 3000);// 延迟3秒
 // })
+
+// 验证setInterval的覆盖情况，浏览器环境
+(function inter(num) {
+    setInterval(() => {
+        var t = +new Date();
+        ++num;
+        console.log(num, new Date());
+        while (+new Date() - t < 1000); // 阻塞两秒
+    }, 2000)
+})(0)
+
+
 
 // 异步编程，优先级测试
 // setImmediate(function(){
@@ -159,13 +171,13 @@
 //     console.log('immediate');
 // });
 
-const fs = require('fs');
-fs.readFile(__filename, () => {
-    setTimeout(() => {
-        console.log('timeout');
-    });
-    setImmediate(() => {
-        console.log('immediate');
-    });
-});
+// const fs = require('fs');
+// fs.readFile(__filename, () => {
+//     setTimeout(() => {
+//         console.log('timeout');
+//     });
+//     setImmediate(() => {
+//         console.log('immediate');
+//     });
+// });
 
