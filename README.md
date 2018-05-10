@@ -40,6 +40,11 @@
 1. Webpack
 2. GraphQL
 
+## 熟悉的框架
+
+1. express
+2. VueJS
+
 ## DIY项目
 
 1. 用代码讲述原理Promise
