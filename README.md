@@ -21,6 +21,7 @@
 3. [执行上下文](https://github.com/coconilu/Blog/issues/6)
 4. [类相关](https://github.com/coconilu/Blog/issues/9)
 5. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
+6. [完结](https://github.com/coconilu/Blog/issues/10)
 
 ## 关于 “JS常用技巧” 的系列博客
 
