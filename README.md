@@ -40,6 +40,7 @@
 
 1. Webpack
 2. GraphQL
+3. Lodash
 
 ## 熟悉的框架
 
