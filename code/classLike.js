@@ -13,3 +13,23 @@ let handler = {
 let p = new Proxy(person, handler)
 
 console.log(p.getName())
+
+// 验证extend的原理
+class Father {
+    constructor() {
+        this.fatherSelf = function () { }
+    }
+
+    fatherPrototype() { }
+}
+
+class Child extends Father {
+    constructor() {
+        super()
+        this.childSelf = function () { }
+    }
+
+    childPrototype() { }
+}
+
+var c = new Child()
