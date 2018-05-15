@@ -49,7 +49,7 @@
 
 ## DIY项目
 
-1. 用代码讲述原理Promise
+1. 用代码讲述Promise原理——[每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 2. 企业微信第三方库
 
 # License
