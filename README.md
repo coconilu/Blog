@@ -41,6 +41,7 @@
 1. Webpack
 2. GraphQL
 3. Lodash
+4. git
 
 ## 熟悉的框架
 
