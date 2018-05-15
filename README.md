@@ -8,11 +8,6 @@
 
 ——致敬《断舍离》
 
-# 收录内容
-
-1. JS运行原理系列
-2. JS常用技巧系列
-3. 分布式系统的思考系列
 
 ## 关于 “JS运行原理” 的系列博客
 
@@ -21,10 +16,15 @@
 3. - [x] [执行上下文](https://github.com/coconilu/Blog/issues/6)
 4. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 5. - [x] [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
-6. - [ ] [完结](https://github.com/coconilu/Blog/issues/10)
+6. - [x] [完结](https://github.com/coconilu/Blog/issues/10)
 
-## 关于 “JS常用技巧” 的系列博客
+## 关于 “前端碎片化整理” 的系列博客
 
+1. - [ ] JS重要概念收集整理
+2. - [ ] JS编程技巧收集整理
+3. - [ ] DOM编程收集整理
+
+## 分布式系统的思考系列
 
 ## 关于 JavaScript 的系列读书笔记
 
