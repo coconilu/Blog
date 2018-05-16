@@ -20,7 +20,7 @@
 
 ## 关于 “钻JS牛角尖” 的系列博客
 
-1. - [ ] 挖掘Function.prototype.bind
+1. - [X] 挖掘Function.prototype.bind
 
 ## 关于 “前端碎片化整理” 的系列博客
 
