@@ -36,14 +36,14 @@
 6. - [ ] 《前端工程化：体系设计与实践》
 7. - [ ] 《深入浅出 Webpack》
 
-## 熟悉的工具
+## 工具
 
 1. Webpack
 2. GraphQL
 3. Lodash
 4. git
 
-## 熟悉的框架
+## 框架
 
 1. express
 2. VueJS
