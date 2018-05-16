@@ -18,6 +18,10 @@
 5. - [x] [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 6. - [x] [完结](https://github.com/coconilu/Blog/issues/10)
 
+## 关于 “钻JS牛角尖” 的系列博客
+
+1. - [ ] 挖掘Function.prototype.bind
+
 ## 关于 “前端碎片化整理” 的系列博客
 
 1. - [ ] JS重要概念收集整理
