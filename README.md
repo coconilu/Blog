@@ -18,6 +18,11 @@
 5. - [x] [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 6. - [x] [完结](https://github.com/coconilu/Blog/issues/10)
 
+## 关于 “HTML模型” 的系列博客
+
+1. - [ ] [HTML模型](https://github.com/coconilu/Blog/issues/20)
+2. - [ ] [常用标签属性](https://github.com/coconilu/Blog/issues/21)
+
 ## 关于 “前端案例收集” 的系列博客
 
 * - [ ] 预加载图片和懒加载图片
