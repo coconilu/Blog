@@ -20,8 +20,9 @@
 
 ## 关于 “Web编程模型” 的系列博客
 
+1. - [x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
 1. - [ ] [HTML模型](https://github.com/coconilu/Blog/issues/20)
-2. - [ ] [DOM模型](https://github.com/coconilu/Blog/issues/22)
+2. - [ ] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 3. - [ ] [Web API](https://github.com/coconilu/Blog/issues/23)
 4. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/24)
 5. - [ ] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
