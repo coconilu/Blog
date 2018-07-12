@@ -23,7 +23,7 @@
 1. - [x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
 1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
 1. - [ ] [DOM 模型](https://github.com/coconilu/Blog/issues/20)
-2. - [x] [浏览器的事件模型](https://github.com/coconilu/Blog/issues/22)
+2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 3. - [ ] [Web API](https://github.com/coconilu/Blog/issues/23)
 4. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/24)
 5. - [ ] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
