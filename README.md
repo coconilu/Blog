@@ -35,6 +35,11 @@
 * - [ ] 页面加载海量数据
 * - [ ] 弹幕效果
 
+## “前端通信”案例
+
+* - [ ] 文件上传方式
+* - [ ] 拖拽文件到浏览器
+
 ## 关于 “钻JS牛角尖” 的系列博客
 
 1. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
