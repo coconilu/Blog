@@ -21,12 +21,22 @@
 ## 关于 “Web编程模型” 的系列博客
 
 1. - [x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
-1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
-1. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/20)
-2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
-3. - [ ] [Web API](https://github.com/coconilu/Blog/issues/24)
-4. - [ ] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
-5. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/25)
+2. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
+3. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/20)
+4. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
+5. - [ ] [Web API](https://github.com/coconilu/Blog/issues/24)
+6. - [ ] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
+7. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/25)
+
+## 关于JavaScript的排序算法
+
+1. - [x] 校验排序算法
+2. - [x] 冒泡排序
+3. - [x] 插入排序
+4. - [x] 选择排序
+5. - [x] 希尔排序
+6. - [x] 递归排序
+7. - [x] 快速排序
 
 ## 关于 “前端案例收集” 的系列博客
 
