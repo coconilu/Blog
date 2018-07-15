@@ -50,15 +50,10 @@
 * - [ ] 文件上传方式
 * - [ ] 拖拽文件到浏览器
 
-## 关于 “钻JS牛角尖” 的系列博客
+## 关于 “深究JS” 的系列博客
 
 1. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 
-## 关于 “前端碎片化整理” 的系列博客
-
-1. - [ ] JS重要概念收集整理
-2. - [ ] JS编程技巧收集整理
-3. - [ ] DOM编程收集整理
 
 ## 关于 JavaScript 的系列读书笔记
 
