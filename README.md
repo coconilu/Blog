@@ -27,7 +27,8 @@
 5. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
 6. - [x] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
 7. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
-8. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/25)
+8. - [ ] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
+9. - [ ] [CSS 模型](https://github.com/coconilu/Blog/issues/25)
 
 ## 关于JavaScript的排序算法
 
