@@ -20,15 +20,26 @@
 
 ## 关于 “Web编程模型” 的系列博客
 
-1. - [x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
-2. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
-3. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
-4. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
-5. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
-6. - [x] [CSS 解析模型](https://github.com/coconilu/Blog/issues/18)
-7. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
-8. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
-9. - [ ] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
+[x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
+
+### 1. HTML模块
+1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
+
+### 2. CSS 模块
+1. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
+2. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
+3. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
+4. - [x] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
+5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
+6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
+7. - [x] [CSS 高级内容](https://github.com/coconilu/Blog/issues/29)
+
+
+### 3. JS 模块
+1. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
+2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
+3. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
+
 
 ## 关于JavaScript的排序算法
 
