@@ -43,6 +43,8 @@
 ### 4. 综合模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
+3. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
+
 
 ## 关于网络和安全
 1. http和https
