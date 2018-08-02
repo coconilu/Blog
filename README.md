@@ -44,6 +44,11 @@
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 
+## 关于网络和安全
+1. http和https
+2. websocket
+3. 安全
+
 ## 关于JavaScript的排序算法
 
 1. - [x] [校验排序算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
