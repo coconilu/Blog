@@ -20,7 +20,7 @@
 
 ## 关于 “Web编程模型” 的系列博客
 
-[x] [Web编程模型](https://github.com/coconilu/Blog/issues/23)
+- [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
 
 ### 1. HTML模块
 1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
