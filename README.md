@@ -34,15 +34,15 @@
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
 7. - [x] [CSS 高级内容](https://github.com/coconilu/Blog/issues/29)
 
-
 ### 3. JS 模块
 1. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 3. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
+3. - [ ] [JavaScript 高级概念集锦](https://github.com/coconilu/Blog/issues/32)
 
 ### 4. 综合模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
-
+2. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 
 ## 关于JavaScript的排序算法
 
