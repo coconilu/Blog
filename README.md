@@ -40,6 +40,9 @@
 2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 3. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
 
+### 4. 综合模块
+1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
+
 
 ## 关于JavaScript的排序算法
 
