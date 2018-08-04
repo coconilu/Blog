@@ -23,7 +23,8 @@
 - [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
 
 ### 1. HTML模块
-1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
+1. - [x] [HTML概述](https://github.com/coconilu/Blog/issues/34)
+2. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
 
 ### 2. CSS 模块
 1. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
