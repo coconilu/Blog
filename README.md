@@ -39,8 +39,9 @@
 
 ### 4. 综合模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
-2. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
-3. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
+2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
+3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
+4. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
 
 
 ## 关于网络和安全
@@ -50,7 +51,7 @@
 
 ## 关于JavaScript的排序算法
 
-1. - [x] [校验排序算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
+1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
 2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
 3. - [x] [插入排序](https://gist.github.com/coconilu/328a84764b15ec359d143fbd1a614a51)
 4. - [x] [选择排序](https://gist.github.com/coconilu/cdd13940a6bd8f28c4bd6ab0d226b8dd)
@@ -69,10 +70,6 @@
 
 * - [ ] 文件上传原理
 * - [ ] 拖拽文件到浏览器
-
-## 关于 “深究JS” 的系列博客
-
-1. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 
 
 ## 关于 JavaScript 的系列读书笔记
