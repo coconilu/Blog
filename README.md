@@ -61,13 +61,13 @@
 
 ## 关于 “前端案例收集” 的系列博客
 
-* - [ ] [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
-* - [ ] 预加载图片和懒加载图片
-* - [ ] 圣杯与双飞翼
-* - [ ] 页面加载海量数据
-* - [ ] 弹幕效果
-* - [ ] 文件上传原理
-* - [ ] 拖拽文件到浏览器
+* [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
+* 预加载图片和懒加载图片
+* 圣杯与双飞翼
+* 页面加载海量数据
+* 弹幕效果
+* 文件上传原理
+* 拖拽文件到浏览器
 
 ## 社区活动
 1. [掘进翻译计划](https://github.com/coconilu/Blog/issues/36)
