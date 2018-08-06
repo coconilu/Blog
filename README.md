@@ -52,7 +52,8 @@
 4. - [x] websocket
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 
-## 关于JavaScript的排序算法
+## 数据结构与算法
+### 1. JavaScript实现的排序算法
 
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
 2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
