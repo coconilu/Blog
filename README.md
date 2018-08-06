@@ -52,9 +52,13 @@
 4. - [x] websocket
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 
+## 关于操作系统
+1. - [x] 单线程与多线程
+2. - [x] 并发与并行
+3. - [x] 阻塞（非阻塞）与同步（异步）
+
 ## 数据结构与算法
 ### 1. JavaScript实现的排序算法
-
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
 2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
 3. - [x] [插入排序](https://gist.github.com/coconilu/328a84764b15ec359d143fbd1a614a51)
@@ -64,7 +68,6 @@
 7. - [x] [快速排序](https://gist.github.com/coconilu/8e814ac4238ac2fe3a6bf5113a685237)
 
 ## 关于 “前端案例收集” 的系列博客
-
 * [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
 * 预加载图片和懒加载图片
 * 圣杯与双飞翼
@@ -77,7 +80,6 @@
 1. [掘进翻译计划](https://github.com/coconilu/Blog/issues/36)
 
 ## 关于 JavaScript 的系列读书笔记
-
 1. - [ ] 《JavaScript 语言精粹》
 2. - [ ] 《高性能 JavaScript》
 3. - [ ] 《数据结构与算法 JavaScript描述》
@@ -87,14 +89,12 @@
 7. - [ ] 《深入浅出 Webpack》
 
 ## 工具
-
 1. Webpack
 2. GraphQL
 3. Lodash
 4. git
 
 ## 框架
-
 1. express
 2. VueJS
 
