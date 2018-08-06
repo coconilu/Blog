@@ -32,6 +32,7 @@
 7. - [x] [CSS 高级内容](https://github.com/coconilu/Blog/issues/29)
 
 ### 3. JS 模块
+1. - [X] [JavaScript 概述](https://github.com/coconilu/Blog/issues/35)
 1. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 3. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
