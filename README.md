@@ -53,9 +53,10 @@
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 
 ## 关于操作系统
-1. - [x] 单线程与多线程
-2. - [x] 并发与并行
-3. - [x] 阻塞（非阻塞）与同步（异步）
+1. - [x] 进程与线程
+2. - [x] [并发与并行](https://github.com/coconilu/Blog/issues/39)
+3. - [x] [阻塞（非阻塞）与同步（异步）](https://github.com/coconilu/Blog/issues/40)
+4. - [x] IO 模型
 
 ## 数据结构与算法
 ### 1. JavaScript实现的排序算法
