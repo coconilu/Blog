@@ -45,9 +45,9 @@
 
 
 ## 关于网络和安全
-1. http和https
-2. websocket
-3. 安全
+1. - [x] http和https
+2. - [x] websocket
+3. - [x] [Web 安全](https://github.com/coconilu/Blog/issues/38)
 
 ## 关于JavaScript的排序算法
 
