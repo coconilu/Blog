@@ -12,7 +12,10 @@
    2. 运行
 4. 异步编程与事件循环
 
-
+## 关于 “高级JavaScript”的系列博客
+1. 虚拟DOM
+2. 类相关
+3. 防抖和节流
 
 ## 关于 “JS运行原理” 的系列博客
 
@@ -62,10 +65,10 @@
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 
 ## 关于操作系统
-1. - [x] 进程与线程
+1. - [ ] 进程与线程
 2. - [x] [并发与并行](https://github.com/coconilu/Blog/issues/39)
 3. - [x] [阻塞（非阻塞）与同步（异步）](https://github.com/coconilu/Blog/issues/40)
-4. - [x] IO 模型
+4. - [ ] IO 模型
 
 ## 关于NodeJS
 1. - [ ] NodeJS概述
