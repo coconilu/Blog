@@ -80,6 +80,9 @@
 6. - [x] [递归排序](https://gist.github.com/coconilu/0bc68ea5099292bbc1aca7d48e0d5e40)
 7. - [x] [快速排序](https://gist.github.com/coconilu/8e814ac4238ac2fe3a6bf5113a685237)
 
+### 2. 其他有意思的算法
+1. - [ ] 数组洗牌效果
+
 ## 关于 “前端案例收集” 的系列博客
 * [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
 * 预加载图片和懒加载图片
