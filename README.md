@@ -43,9 +43,7 @@
 2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 4. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
-
-## 有趣的前端业务场景
-1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
+5. - [ ] JS 编程技巧
 
 ## 关于网络和安全
 1. - [x] OSI 通信模型
@@ -91,6 +89,9 @@
 * 弹幕效果
 * 文件上传原理
 * 拖拽文件到浏览器
+
+## 有趣的前端业务场景
+1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 
 ## 社区活动
 1. [掘进翻译计划](https://github.com/coconilu/Blog/issues/36)
