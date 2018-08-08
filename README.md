@@ -5,8 +5,8 @@
 —— 致敬《断舍离》
 
 ## 关于“浏览器运行原理”的系列博客
-1. 浏览器运行原理概述
-2. 资源加载和页面渲染
+1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
+2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
 3. V8 引擎
    1. 编译
    2. 运行
