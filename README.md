@@ -8,9 +8,7 @@
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
 2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
 3. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
-   1. 编译
-   2. 运行
-   3. V8 引擎
+   - V8 引擎
 4. 异步编程与事件循环
 
 ## 关于 “高级JavaScript”的系列博客
