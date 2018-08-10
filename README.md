@@ -12,18 +12,10 @@
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
 ## 关于 “高级JavaScript”的系列博客
-1. 虚拟DOM
-2. 类相关
-3. 防抖和节流
+1. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
+2. 防抖和节流
+3. 虚拟DOM
 
-## 关于 “JS运行原理” 的系列博客
-
-1. - [x] [JS运行原理](https://github.com/coconilu/Blog/issues/2)
-2. - [x] [浏览器进程和网页渲染过程](https://github.com/coconilu/Blog/issues/5)
-3. - [x] [执行上下文](https://github.com/coconilu/Blog/issues/6)
-4. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
-5. - [x] [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
-6. - [x] [完结](https://github.com/coconilu/Blog/issues/10)
 
 ## 关于 “Web编程模型” 的系列博客
 
