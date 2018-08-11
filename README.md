@@ -15,6 +15,7 @@
 1. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 2. 防抖和节流
 3. 虚拟DOM
+4. - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
 
 
 ## 关于 “Web编程模型” 的系列博客
@@ -36,9 +37,9 @@
 
 ### 3. JS 模块
 1. - [X] [JavaScript 概述](https://github.com/coconilu/Blog/issues/35)
-1. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
-2. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
-3. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
+2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
+3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
+4. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
 3. - [ ] [JavaScript 高级概念集锦](https://github.com/coconilu/Blog/issues/32)
 
 ### 4. 综合模块
@@ -46,7 +47,6 @@
 2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 4. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
-5. - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
 
 ## 关于网络和安全
 1. - [x] OSI 通信模型
