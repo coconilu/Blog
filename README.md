@@ -67,8 +67,8 @@
 3. - [ ] 网络模块
 4. - [ ] 系统模块
 5. - [ ] 工具模块
-6. - [ ] NodeJS 运行原理
-7. - [ ] NodeJS 事件循环
+6. - [ ] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
+7. - [ ] [NodeJS 事件循环](https://github.com/coconilu/Blog/issues/50)
 8. - [ ] V8 引擎
 
 ## 数据结构与算法
