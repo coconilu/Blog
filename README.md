@@ -62,13 +62,12 @@
 4. - [ ] IO 模型
 
 ## 关于NodeJS
-1. - [ ] NodeJS概述
-2. - [ ] 基础模块
-3. - [ ] 网络模块
-4. - [ ] 系统模块
-5. - [ ] 工具模块
-6. - [ ] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
-7. - [ ] [NodeJS 事件循环](https://github.com/coconilu/Blog/issues/50)
+1. - [ ] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
+2. - [ ] NodeJS 编程模型
+3. - [ ] 基础模块
+4. - [ ] 网络模块
+5. - [ ] 系统模块
+6. - [ ] 工具模块
 8. - [ ] V8 引擎
 
 ## 数据结构与算法
