@@ -13,8 +13,8 @@
 
 ## 关于 “高级JavaScript”的系列博客
 1. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
-2. 防抖和节流
-3. 虚拟DOM
+2. - [ ] 防抖和节流
+3. - [ ] 虚拟DOM
 4. - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
 
 
