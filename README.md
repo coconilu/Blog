@@ -66,9 +66,9 @@
 2. - [ ] [NodeJS 编程模型](https://github.com/coconilu/Blog/issues/41)
 3. - [ ] [基础模块](https://github.com/coconilu/Blog/issues/42)
 4. - [ ] [网络模块](https://github.com/coconilu/Blog/issues/50)
-5. - [ ] 系统模块
-6. - [ ] 工具模块
-8. - [ ] V8 引擎
+5. - [ ] [系统模块](https://github.com/coconilu/Blog/issues/51)
+6. - [ ] [工具模块](https://github.com/coconilu/Blog/issues/53)
+7. - [ ] NodeJS 多进程网络架构
 
 ## 数据结构与算法
 ### 1. JavaScript实现的排序算法
