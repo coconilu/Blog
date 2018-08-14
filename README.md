@@ -11,11 +11,12 @@
    - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
-## 关于 “高级JavaScript”的系列博客
+## 关于 “进阶JavaScript”的系列博客
 1. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 2. - [ ] 防抖和节流
 3. - [ ] 虚拟DOM
 4. - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
+5. - [ ] ES6 要点
 
 
 ## 关于 “Web编程模型” 的系列博客
