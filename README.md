@@ -98,9 +98,11 @@
 ## 工具
 ### 1. git
 
-##### A. 常用场景
+##### A. [git模型](https://github.com/coconilu/Blog/issues/54)
 
-##### B. 常用API
+##### B. [git常用API](https://github.com/coconilu/Blog/issues/55)
+
+##### C. [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
 ### 2. GraphQL
 ### 3. Lodash
