@@ -81,6 +81,10 @@
 7. - [ ] NodeJS 多进程网络架构
 8. - [ ] Express 和 Koa
 
+## 关于VueJS
+1. - [ ] [VueJS 运行原理](https://github.com/coconilu/Blog/issues/43)
+2. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/41)
+
 ## 数据结构与算法
 ### 1. JavaScript实现的排序算法
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
