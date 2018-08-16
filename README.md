@@ -97,11 +97,11 @@
 ## 工具
 ### 1. git
 
-A. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
+1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
 
-B. - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
+2. - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
 
-C. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
+3. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
 ### 2. GraphQL
 ### 3. Lodash
