@@ -13,7 +13,7 @@
 
 ## 关于 “进阶JavaScript”的系列博客
 1. - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
-2. - [ ] [类相关](https://github.com/coconilu/Blog/issues/9)
+2. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 3. - [ ] 防抖和节流
 4. - [ ] 虚拟DOM
 5. - [ ] ES6 要点
