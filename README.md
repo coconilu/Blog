@@ -12,10 +12,10 @@
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
 ## 关于 “进阶JavaScript”的系列博客
-1. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
-2. - [ ] 防抖和节流
-3. - [ ] 虚拟DOM
-4. - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
+1. - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
+2. - [ ] [类相关](https://github.com/coconilu/Blog/issues/9)
+3. - [ ] 防抖和节流
+4. - [ ] 虚拟DOM
 5. - [ ] ES6 要点
 
 
@@ -41,7 +41,6 @@
 2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 4. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
-3. - [ ] [JavaScript 高级概念集锦](https://github.com/coconilu/Blog/issues/32)
 
 #### 4. 综合模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
