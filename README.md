@@ -118,7 +118,7 @@
 ## 社区活动
 
 1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
-2. [掘进翻译计划](https://github.com/coconilu/Blog/issues/36)
+2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
 
 ## 开源项目
 
