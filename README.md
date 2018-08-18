@@ -47,7 +47,7 @@
 2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 4. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
-5. - [ ] [跨域请求](https://github.com/coconilu/Blog/issues/33)
+5. - [ ] [跨域请求](https://github.com/coconilu/Blog/issues/59)
 
 ## 有趣的前端业务场景
 1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
