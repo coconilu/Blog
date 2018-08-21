@@ -34,6 +34,7 @@
 3. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
 4. - [x] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
 5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
+6. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
 7. - [x] [CSS 高级内容](https://github.com/coconilu/Blog/issues/29)
 
