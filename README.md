@@ -16,7 +16,7 @@
 2. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 3. - [ ] 防抖和节流
 4. - [ ] 虚拟DOM
-5. - [ ] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
+5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 6. - [ ] 函数式编程
 
 
