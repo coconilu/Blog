@@ -17,7 +17,7 @@
 3. - [ ] 防抖和节流
 4. - [ ] 虚拟DOM
 5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
-6. - [ ] 函数式编程
+6. - [ ] JS 函数式编程
 
 
 ## 关于 “Web编程模型” 的系列博客
