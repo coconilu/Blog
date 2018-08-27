@@ -18,6 +18,7 @@
 4. - [ ] 虚拟DOM
 5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 6. - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
+7. - [ ] [JS 元编程]
 
 
 ## 关于 “Web编程模型” 的系列博客
@@ -50,7 +51,8 @@
 3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 4. - [ ] [统一XHR和Fetch](https://github.com/coconilu/Blog/issues/33)
 5. - [ ] [跨域请求](https://github.com/coconilu/Blog/issues/59)
-6. - [ ] [Shadow DOM]()
+6. - [ ] [Shadow DOM]
+7. - [ ] [网页关键数据与坐标]
 
 ## 有趣的前端业务场景
 1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
