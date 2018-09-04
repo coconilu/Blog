@@ -106,7 +106,7 @@
 1. - [ ] 数组洗牌效果
 
 ## 工具
-### 1. git
+### 1. Git
 
 1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
 
@@ -116,7 +116,9 @@
 
 ### 2. GraphQL
 ### 3. Lodash
-### 4. Webpack
+### 4. NPM
+### 5. Babel
+### 6. Webpack
 
 ## 框架
 1. express
