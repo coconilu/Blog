@@ -54,13 +54,11 @@
 6. - [ ] [Shadow DOM]
 7. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
 
-## 有趣的前端业务场景
+## 前端业务场景
 1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 2. - [ ] [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
 3. - [ ] 预加载图片和懒加载图片
 4. - [ ] 弹幕效果
-5. - [ ] 文件上传原理
-6. - [ ] 拖拽文件到浏览器
 
 ## 关于网络和安全
 1. - [x] OSI 通信模型
