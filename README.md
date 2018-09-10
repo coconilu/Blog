@@ -1,6 +1,7 @@
 # coconilu的博客
 
-我有收录和做笔记的习惯，但是突然某一天我发现我的为知笔记里有1200篇笔记的时候，而我竟想不起我曾经做过的80%的收录和笔记，是时候好好整理它们了。
+每个人都应该有自己的思维宫殿，它有利于我们面对复杂系统的时候，可以游刃有余地去理解它们。
+这些年来我收集了很多文章、博客，但我也是最近才想要仔细去把它们整理并串联起来，希望能组成一个有层次感的知识宫殿。
 
 <p align="right">—— 致敬《断舍离》</p>
 
@@ -15,7 +16,7 @@
 1. - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
 2. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 3. - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
-4. - [ ] 虚拟DOM
+4. - [ ] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 6. - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
 7. - [ ] [JS 元编程]
