@@ -67,7 +67,8 @@
 3. - [x] http和https
 4. - [x] websocket
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-6. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+6. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+7. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
 
 ## 关于操作系统
 1. - [ ] 进程与线程
