@@ -89,7 +89,7 @@
 8. - [ ] Express 和 Koa
 
 ## 关于VueJS
-1. - [ ] [VueJS 运行原理](https://github.com/coconilu/Blog/issues/43)
+1. - [ ] [VueJS 运行原理](https://github.com/coconilu/Blog/issues/19)
 2. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/41)
 
 ## 数据结构与算法
