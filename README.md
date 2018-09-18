@@ -120,10 +120,6 @@
 ### 5. Babel
 ### 6. Webpack
 
-## 框架
-1. express
-2. VueJS
-
 ## 社区活动
 
 1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
