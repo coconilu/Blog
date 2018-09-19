@@ -19,8 +19,8 @@
 4. - [ ] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 6. - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
-7. - [ ] [JS 元编程]
-8. - [ ] [JS 设计模式]
+7. - [ ] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
+8. - [ ] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
 
 
 ## 关于 “Web编程模型” 的系列博客
