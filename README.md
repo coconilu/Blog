@@ -15,10 +15,10 @@
 ## 关于 “进阶JavaScript”的系列博客
 - - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 - - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
-- - [x] [JS 常用对象](https://github.com/coconilu/Blog/issues/70)
+- - [ ] [JS 常用对象](https://github.com/coconilu/Blog/issues/70)
 - - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
 - - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
-- - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
+- - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
 - - [ ] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
 - - [ ] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
