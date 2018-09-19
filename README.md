@@ -13,14 +13,15 @@
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
 ## 关于 “进阶JavaScript”的系列博客
-1. - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
-2. - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
-3. - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
-4. - [ ] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
-5. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
-6. - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
-7. - [ ] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
-8. - [ ] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
+- - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
+- - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
+- - [x] [JS 常用对象](https://github.com/coconilu/Blog/issues/46)
+- - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
+- - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
+- - [ ] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
+- - [ ] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
+- - [ ] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
+- - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 
 
 ## 关于 “Web编程模型” 的系列博客
