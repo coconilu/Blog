@@ -15,7 +15,8 @@
 ## 关于 “进阶JavaScript”的系列博客
 - - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 - - [x] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
-- - [ ] [JS 常用对象](https://github.com/coconilu/Blog/issues/70)
+- - [ ] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
+- - [ ] [JS 常用数据类型](https://github.com/coconilu/Blog/issues/71)
 - - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
 - - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 - - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
