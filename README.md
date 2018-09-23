@@ -17,7 +17,7 @@
 - - [ ] [JS 编程技巧](https://github.com/coconilu/Blog/issues/46)
 - - [x] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
 - - [x] [JS 常用操作符](https://github.com/coconilu/Blog/issues/72)
-- - [ ] [JS 常用数据结构](https://github.com/coconilu/Blog/issues/71)
+- - [x] [JS 常用数据结构](https://github.com/coconilu/Blog/issues/71)
 - - [x] [JS 可迭代对象、迭代器、生成器](https://github.com/coconilu/Blog/issues/73)
 - - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
 - - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
