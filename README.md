@@ -23,7 +23,7 @@
 - - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
 - - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
 - - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
-- - [ ] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
+- - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 
 
