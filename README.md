@@ -61,7 +61,7 @@
 7. - [ ] 响应式布局
 
 ## 前端业务场景
-1. - [ ] [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
+1. - [ ] [Canvas 经典案例（持续更新中）](https://github.com/coconilu/Blog/issues/37)
 2. - [ ] 预加载图片和懒加载图片
 3. - [ ] 弹幕效果
 
