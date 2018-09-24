@@ -55,10 +55,9 @@
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 3. - [ ] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
-6. - [ ] [Shadow DOM]
-7. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
-8. - [ ] FLIP动画
-9. - [ ] 响应式布局
+4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
+5. - [ ] FLIP动画
+6. - [ ] 响应式布局
 
 ## 前端业务场景
 1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
@@ -67,10 +66,10 @@
 4. - [ ] 弹幕效果
 
 ## 关于网络和安全
-1. - [x] OSI 通信模型
-2. - [x] TCP
-3. - [x] http和https
-4. - [x] websocket
+1. - [ ] OSI 通信模型
+2. - [ ] TCP
+3. - [ ] http和https
+4. - [ ] websocket
 5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 6. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
 7. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
