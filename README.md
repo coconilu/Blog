@@ -77,12 +77,6 @@
 6. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
 7. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
 
-## 关于操作系统
-1. - [ ] 进程与线程
-2. - [x] [并发与并行](https://github.com/coconilu/Blog/issues/39)
-3. - [x] [阻塞（非阻塞）与同步（异步）](https://github.com/coconilu/Blog/issues/40)
-4. - [ ] IO 模型
-
 ## 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
 2. - [x] [NodeJS 编程模型](https://github.com/coconilu/Blog/issues/41)
