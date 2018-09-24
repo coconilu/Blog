@@ -55,15 +55,15 @@
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 3. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
-4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
-5. - [ ] FLIP动画
-6. - [ ] 响应式布局
+4. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
+5. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
+6. - [ ] FLIP动画
+7. - [ ] 响应式布局
 
 ## 前端业务场景
-1. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
-2. - [ ] [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
-3. - [ ] 预加载图片和懒加载图片
-4. - [ ] 弹幕效果
+1. - [ ] [Canvas 经典案例](https://github.com/coconilu/Blog/issues/37)
+2. - [ ] 预加载图片和懒加载图片
+3. - [ ] 弹幕效果
 
 ## 关于网络和安全
 1. - [ ] OSI 通信模型
