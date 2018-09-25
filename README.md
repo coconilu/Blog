@@ -43,7 +43,7 @@
 5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
 6. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
-7. - [ ] [CSS 高级内容](https://github.com/coconilu/Blog/issues/29)
+7. - [ ] [CSS 进阶内容](https://github.com/coconilu/Blog/issues/29)
 
 #### 3. JS 模块
 1. - [X] [JavaScript 概述](https://github.com/coconilu/Blog/issues/35)
