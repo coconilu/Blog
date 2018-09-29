@@ -87,6 +87,7 @@
 ## 关于VueJS
 1. - [ ] [VueJS 运行原理](https://github.com/coconilu/Blog/issues/19)
 2. - [ ] [VueJS 核心模块](https://github.com/coconilu/Blog/issues/66)
+2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
 3. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/67)
 
 ## 数据结构与算法
