@@ -112,11 +112,15 @@
 
 3. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
-### 2. GraphQL
+### 2. Nginx
+
+1. - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
+
 ### 3. Lodash
 ### 4. NPM
 ### 5. Babel
 ### 6. Webpack
+### 7. GraphQL
 
 ## 社区活动
 
