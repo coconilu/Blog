@@ -124,6 +124,9 @@
 ### 5. Babel
 ### 6. Webpack
 ### 7. GraphQL
+### 8. VScode
+
+1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
 
 ## 社区活动
 
