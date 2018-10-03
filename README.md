@@ -24,6 +24,7 @@
 - - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
 - - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
+- - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 - - [ ] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
 
 
