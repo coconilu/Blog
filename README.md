@@ -58,8 +58,8 @@
 3. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 4. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 5. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
-6. - [ ] FLIP动画
-7. - [ ] [响应式布局](https://github.com/coconilu/Blog/issues/74)
+6. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
+7. - [ ] FLIP动画
 
 ## 前端业务场景
 1. - [ ] [Canvas 经典案例（持续更新中）](https://github.com/coconilu/Blog/issues/37)
