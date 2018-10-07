@@ -25,6 +25,7 @@
 - - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 - - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
+- - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 - - [ ] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
 
 
@@ -54,12 +55,11 @@
 
 #### 4. 综合模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
-2. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
-3. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
-4. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
-5. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
-6. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
-7. - [ ] FLIP动画
+2. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
+3. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
+4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
+5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
+6. - [ ] FLIP动画
 
 ## 前端业务场景
 1. - [ ] [Canvas 经典案例（持续更新中）](https://github.com/coconilu/Blog/issues/37)
