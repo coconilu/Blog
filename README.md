@@ -126,6 +126,7 @@
 1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
+3. - [ ] [NPM技巧收集](https://github.com/coconilu/Blog/issues/88)
 
 ### 5. Babel
 ### 6. Webpack
