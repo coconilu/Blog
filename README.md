@@ -65,7 +65,7 @@
 1. - [ ] [Canvas 经典案例（持续更新中）](https://github.com/coconilu/Blog/issues/37)
 2. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
 3. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
-4. - [ ] 弹幕效果
+4. - [ ] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
 
 ## 关于网络和安全
 1. - [ ] OSI 通信模型
