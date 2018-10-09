@@ -133,7 +133,7 @@
 ### 5. Babel
 ### 6. Webpack
 
-1. - [ ] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
+1. - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
 2. - [ ] [常用Loaders和Plugins](https://github.com/coconilu/Blog/issues/89)
 
 ### 7. GraphQL
