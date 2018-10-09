@@ -94,6 +94,10 @@
 2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
 3. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/67)
 
+## 关于React
+1. JSX转译
+2. 运行原理
+
 ## 数据结构与算法
 ### 1. JavaScript实现的排序算法
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
@@ -111,9 +115,7 @@
 ### 1. Git
 
 1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
-
 2. - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
-
 3. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
 ### 2. Nginx
