@@ -91,8 +91,11 @@
 ## 关于VueJS
 1. - [ ] [VueJS 运行原理](https://github.com/coconilu/Blog/issues/19)
 2. - [ ] [VueJS 核心模块](https://github.com/coconilu/Blog/issues/66)
-2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
-3. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/67)
+3. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
+4. - [ ] [VueJS 的模板引擎和预编译](https://github.com/coconilu/Blog/issues/91)
+5. - [ ] [VueJS 的render函数和虚拟DOM](https://github.com/coconilu/Blog/issues/92)
+6. - [ ] [VueJs 的组件化](https://github.com/coconilu/Blog/issues/93)
+7. - [ ] [VueJS API](https://github.com/coconilu/Blog/issues/67)
 
 ## 关于React
 1. JSX转译
