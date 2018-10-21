@@ -5,6 +5,17 @@
 
 <p align="right">—— 致敬《断舍离》</p>
 
+## 社区活动
+
+1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
+2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
+3. [NPM 开源项目](https://www.npmjs.com/settings/coconilu/packages)
+
+## 开源项目
+
+1. [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
+2. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
+
 ## 关于“浏览器运行原理”的系列博客
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
 2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
@@ -68,13 +79,10 @@
 4. - [ ] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
 
 ## 关于网络和安全
-1. - [ ] OSI 通信模型
-2. - [ ] TCP
-3. - [ ] http和https
-4. - [ ] websocket
-5. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-6. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
-7. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+1. - [ ] [网络模型](https://github.com/coconilu/Blog/issues/97)
+2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
+3. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+4. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
 
 ## 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
@@ -145,17 +153,6 @@
 
 1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
 2. - [ ] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
-
-## 社区活动
-
-1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
-2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
-3. [NPM 开源项目](https://www.npmjs.com/settings/coconilu/packages)
-
-## 开源项目
-
-1. [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
-2. 企业微信第三方库
 
 ## 关于 JavaScript 的系列读书笔记
 1. - [ ] 《JavaScript 语言精粹》
