@@ -21,6 +21,7 @@
 ## 思维宫殿
 
 ### 关于“浏览器运行原理”的系列博客
+
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
 2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
 3. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
@@ -28,6 +29,7 @@
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
 ### 关于 “进阶JavaScript”的系列博客
+
 - - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
 - - [x] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
 - - [x] [JS 常用操作符](https://github.com/coconilu/Blog/issues/72)
@@ -41,7 +43,7 @@
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 - - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 - - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
-- - [ ] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
+- [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
 
 
 ### 关于 “Web编程模型” 的系列博客
@@ -49,10 +51,12 @@
 - [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
 
 #### 1. HTML模块
+
 1. - [x] [HTML概述](https://github.com/coconilu/Blog/issues/34)
 2. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
 
 #### 2. CSS 模块
+
 1. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
 2. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
 3. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
@@ -60,30 +64,34 @@
 5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
 6. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
-7. - [ ] [CSS 进阶内容](https://github.com/coconilu/Blog/issues/29)
+7. [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
 
 #### 3. JS 模块
+
 1. - [X] [JavaScript 概述](https://github.com/coconilu/Blog/issues/35)
 2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 4. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
 
 #### 4. 综合模块
+
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 3. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
 5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
 6. - [ ] FLIP动画
+7. [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
 ### 前端业务场景
-1. - [ ] [Canvas 经典案例（持续更新中）](https://github.com/coconilu/Blog/issues/37)
-2. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
-3. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
-4. - [ ] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
+
+1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
+2. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
+3. - [ ] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
+4. [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 
 ### 关于网络和安全
-1. - [ ] [网络模型](https://github.com/coconilu/Blog/issues/97)
+1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
 2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 3. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
 4. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
