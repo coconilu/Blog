@@ -5,7 +5,7 @@
 
 <p align="right">—— 致敬《断舍离》</p>
 
-## 开源贡献
+## :trophy: 开源贡献
 
 ### 社区活动
 
@@ -18,7 +18,7 @@
 1. [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 2. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
 
-## 思维宫殿
+## :video_game: 思维宫殿
 
 ### 关于“浏览器运行原理”的系列博客
 
