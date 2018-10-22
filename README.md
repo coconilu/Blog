@@ -43,7 +43,7 @@
 - - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
 - - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 - - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
-- [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
+- - [x] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
 
 
 ### 关于 “Web编程模型” 的系列博客
@@ -64,7 +64,7 @@
 5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
 6. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
-7. [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
+7. - [x] [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
 
 #### 3. JS 模块
 
@@ -81,14 +81,14 @@
 4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
 5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
 6. - [ ] FLIP动画
-7. [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
+7. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
 ### 前端业务场景
 
 1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
 2. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
-3. - [ ] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
-4. [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
+3. - [x] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
+4. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 
 ### 关于网络和安全
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
