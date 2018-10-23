@@ -167,6 +167,8 @@
 1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
 2. - [ ] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
 
+#### 9. TypeScript
+
 ### 关于 JavaScript 的系列读书笔记
 1. - [ ] 《JavaScript 语言精粹》
 2. - [ ] 《高性能 JavaScript》
