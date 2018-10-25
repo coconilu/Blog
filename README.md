@@ -21,8 +21,7 @@
 
 ### 开源项目
 
-1. [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
-2. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
+1. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
 
 ## :books: 思维宫殿
 
