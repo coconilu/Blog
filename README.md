@@ -14,7 +14,7 @@
 1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
 2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
 
-#### NPM 开源项目
+#### NPM 开源共享库
 
 1. [@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
 2. [my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
