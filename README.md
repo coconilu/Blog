@@ -108,6 +108,13 @@
 9. - [x] [Express和Koa的对比](https://github.com/coconilu/Blog/issues/83)
 10. - [ ] NodeJS 多进程网络架构
 
+### 关于NPM
+
+1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
+2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
+3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
+3. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
+
 ### 关于VueJS
 1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
 2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
@@ -119,7 +126,7 @@
 7. - [x] [VueJS API](https://github.com/coconilu/Blog/issues/67)
 
 ### 关于React
-1. - [ ] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
+1. - [x] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
 2. - [ ] [React 进阶](https://github.com/coconilu/Blog/issues/100)
 
 ### 关于GraphQL
@@ -145,16 +152,16 @@
 
 #### Git
 
-1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
-2. - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
-3. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
+- [x] [git模型](https://github.com/coconilu/Blog/issues/54)
+- [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
+- [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
 ### 2. 构建工具
 
 #### Webpack
 
-1. - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
-2. - [ ] [常用Loaders和Plugins](https://github.com/coconilu/Blog/issues/89)
+- [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
+- [x] [常用Loaders和Plugins（持续更新）](https://github.com/coconilu/Blog/issues/89)
 
 #### Babel
 
@@ -162,15 +169,8 @@
 
 #### VScode
 
-1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
-2. - [ ] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
-
-#### NPM
-
-1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
-2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
-3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
-3. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
+- [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
+- [x] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
 
 #### TypeScript
 
