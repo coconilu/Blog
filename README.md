@@ -18,7 +18,7 @@
 1. [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 2. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
 
-## :video_game: 思维宫殿
+## :books: 思维宫殿
 
 ### 关于“浏览器运行原理”的系列博客
 
@@ -135,41 +135,53 @@
 #### 2. 其他有意思的算法
 1. - [ ] 数组洗牌效果
 
-### 工具
+## :video_game: 工具
 
-#### 1. Git
+### 1. 版本管理工具
+
+#### Git
 
 1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
 2. - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
 3. - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
-#### 2. Nginx
+### 2. 构建工具
 
-1. - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
+#### Webpack
 
-#### 3. Lodash
-#### 4. NPM
+1. - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
+2. - [ ] [常用Loaders和Plugins](https://github.com/coconilu/Blog/issues/89)
+
+#### Babel
+
+### 3. 开发工具
+
+#### VScode
+
+1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
+2. - [ ] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
+
+#### NPM
 
 1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
 3. - [ ] [NPM技巧收集](https://github.com/coconilu/Blog/issues/88)
 
-#### 5. Babel
-#### 6. Webpack
+#### GraphQL
 
-1. - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
-2. - [ ] [常用Loaders和Plugins](https://github.com/coconilu/Blog/issues/89)
+#### TypeScript
 
-#### 7. GraphQL
-#### 8. VScode
+#### Lodash
 
-1. - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
-2. - [ ] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
+### 4. 运维工具
 
-#### 9. TypeScript
+#### Nginx
 
-### 关于 JavaScript 的系列读书笔记
+1. - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
+
+<!--
+## 关于 JavaScript 的系列读书笔记
 1. - [ ] 《JavaScript 语言精粹》
 2. - [ ] 《高性能 JavaScript》
 3. - [ ] 《数据结构与算法 JavaScript描述》
@@ -177,10 +189,9 @@
 5. - [ ] 《JavaScript 框架设计》
 6. - [ ] 《前端工程化：体系设计与实践》
 7. - [ ] 《深入浅出 Webpack》
+-->
 
 # 勘误与改进
-
-如果您在阅读过程中，遇到不懂的，欢迎issue提问；碰到错误的，还望不吝赐教。
 
 如果博客对您有所帮助或启发，期待您的star，同时对作者也是一种鼓励。
 
