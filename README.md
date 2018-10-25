@@ -122,6 +122,10 @@
 1. - [ ] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
 2. - [ ] [React 进阶](https://github.com/coconilu/Blog/issues/100)
 
+### 关于GraphQL
+
+### 关于Lodash
+
 ### 数据结构与算法
 #### 1. JavaScript实现的排序算法
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
@@ -154,7 +158,7 @@
 
 #### Babel
 
-### 3. 开发工具
+### 3. 开发测试工具
 
 #### VScode
 
@@ -166,19 +170,15 @@
 1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
-3. - [ ] [NPM技巧收集](https://github.com/coconilu/Blog/issues/88)
-
-#### GraphQL
+3. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
 
 #### TypeScript
 
-#### Lodash
+### 4. 其它
 
-### 4. 运维工具
+#### 4.1 Nginx
 
-#### Nginx
-
-1. - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
+- [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
 
 <!--
 ## 关于 JavaScript 的系列读书笔记
