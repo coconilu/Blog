@@ -16,8 +16,8 @@
 
 #### NPM 开源项目
 
-[@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
-[my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
+1. [@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
+2. [my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
 
 ### 开源项目
 
