@@ -172,6 +172,8 @@
 - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
 - [x] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
 
+#### Jest
+
 #### TypeScript
 
 ### 4. 其它
