@@ -9,9 +9,15 @@
 
 ### 社区活动
 
+#### 翻译活动
+
 1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
 2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
-3. [NPM 开源项目](https://www.npmjs.com/settings/coconilu/packages)
+
+#### NPM 开源项目
+
+[@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
+[my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
 
 ### 开源项目
 
