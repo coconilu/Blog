@@ -176,7 +176,7 @@
 
 ### 4. 其它
 
-#### 4.1 Nginx
+#### Nginx
 
 - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
 
