@@ -187,7 +187,7 @@
 
 - [x] [TypeScript 速记手册](https://github.com/coconilu/Blog/issues/101)
 
-### 4. 其它
+### 4. 服务器相关
 
 #### Nginx
 
