@@ -170,6 +170,8 @@
 
 #### Babel
 
+- [x] [Babel 运行过程](https://github.com/coconilu/Blog/issues/102)
+
 ### 3. 开发测试工具
 
 #### VScode
@@ -179,7 +181,11 @@
 
 #### Jest
 
+- [x] [Jest 速记手册](https://github.com/coconilu/Blog/issues/103)
+
 #### TypeScript
+
+- [x] [TypeScript 速记手册](https://github.com/coconilu/Blog/issues/101)
 
 ### 4. 其它
 
