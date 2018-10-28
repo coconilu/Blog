@@ -136,6 +136,8 @@
 
 ### 关于GraphQL
 
+- [x] [GraphQL 速记手册](https://github.com/coconilu/Blog/issues/104)
+
 ### 关于Lodash
 
 ### 数据结构与算法
