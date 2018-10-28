@@ -18,6 +18,7 @@
 
 1. [@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
 2. [my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
+3. [my-flip-animation](https://www.npmjs.com/package/my-flip-animation)
 
 ### 开源项目
 
