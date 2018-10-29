@@ -86,7 +86,7 @@
 3. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
 5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
-6. - [ ] FLIP动画
+6. - [x] [FLIP 动画](https://github.com/coconilu/Blog/issues/105)
 7. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
 ### 前端业务场景
