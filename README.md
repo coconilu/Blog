@@ -77,7 +77,7 @@
 1. - [X] [WebAPI 概述](https://github.com/coconilu/Blog/issues/35)
 2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
-4. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
+4. - [x] [Web API参考](https://github.com/coconilu/Blog/issues/24)
 
 #### 4. 综合模块
 
