@@ -95,7 +95,8 @@
 1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
 2. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
 3. - [x] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
-4. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
+4. - [x] [翻牌效果](https://github.com/coconilu/Blog/issues/107)
+5. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 
 ### 关于网络和安全
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
