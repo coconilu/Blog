@@ -72,9 +72,9 @@
 6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
 7. - [x] [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
 
-#### 3. JS 模块
+#### 3. WebAPI 模块
 
-1. - [X] [JavaScript 概述](https://github.com/coconilu/Blog/issues/35)
+1. - [X] [WebAPI 概述](https://github.com/coconilu/Blog/issues/35)
 2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 4. - [x] [Web API](https://github.com/coconilu/Blog/issues/24)
