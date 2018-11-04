@@ -82,6 +82,7 @@
 #### 4. 综合模块
 
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
+2. - [x] [上传文件](https://github.com/coconilu/Blog/issues/109)
 2. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
 3. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
 4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
