@@ -106,6 +106,7 @@
 2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 3. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
 4. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+5. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
 ### 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
