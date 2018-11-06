@@ -136,6 +136,7 @@
 6. - [x] [VueJs 的组件化](https://github.com/coconilu/Blog/issues/93)
 6. - [x] [VueJS 的调试](https://github.com/coconilu/Blog/issues/96)
 7. - [x] [VueJS API](https://github.com/coconilu/Blog/issues/67)
+8. - [x] [VueJS 全家桶](https://github.com/coconilu/Blog/issues/111)
 
 ### 关于React
 1. - [x] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
