@@ -34,6 +34,7 @@
 3. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
    - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
+5. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
 
 ### 关于 “进阶JavaScript”的系列博客
 
