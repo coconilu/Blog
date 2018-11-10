@@ -100,7 +100,7 @@
 3. - [x] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
 4. - [x] [翻牌效果](https://github.com/coconilu/Blog/issues/107)
 5. - [x] [拖拽专题](https://github.com/coconilu/Blog/issues/108)
-6. - [ ] 雪碧图 
+6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
 6. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 
 ### 关于网络和安全
