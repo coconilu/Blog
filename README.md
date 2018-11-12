@@ -48,7 +48,7 @@
 - - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
 - - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
 - - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
-- - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
+- - [x] [虚拟DOM与diff算法](https://github.com/coconilu/Blog/issues/65)
 - - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 - - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 - - [x] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
