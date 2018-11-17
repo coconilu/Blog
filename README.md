@@ -36,6 +36,13 @@
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 5. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
 
+### 关于网络和安全
+1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
+2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
+3. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+4. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+5. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
+
 ### 关于 “进阶JavaScript”的系列博客
 
 - - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
@@ -102,13 +109,6 @@
 5. - [x] [拖拽专题](https://github.com/coconilu/Blog/issues/108)
 6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
 6. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
-
-### 关于网络和安全
-1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
-2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-3. - [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
-4. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
-5. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
 ### 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
