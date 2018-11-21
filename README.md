@@ -190,6 +190,10 @@
 
 - [x] [Babel 运行过程](https://github.com/coconilu/Blog/issues/102)
 
+#### Travis CI
+
+- [ ] [Travis CI 使用手册](https://github.com/coconilu/Blog/issues/118)
+
 ### 3. 开发测试工具
 
 #### VScode
