@@ -29,6 +29,8 @@
 
 ## :books: 思维宫殿
 
+### [从“浏览器输入URL后”说起](https://github.com/coconilu/Blog/issues/120)
+
 ### 关于“浏览器运行原理”的系列博客
 
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
