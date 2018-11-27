@@ -114,6 +114,22 @@
 6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
 6. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 
+### 关于VueJS
+1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
+2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
+3. - [x] [VueJS 的编译阶段到挂载节点](https://github.com/coconilu/Blog/issues/92)
+4. - [x] [VueJS 的模板引擎](https://github.com/coconilu/Blog/issues/91)
+5. - [x] [VueJS 的VNode](https://github.com/coconilu/Blog/issues/94)
+6. - [x] [VueJs 的组件化](https://github.com/coconilu/Blog/issues/93)
+6. - [x] [VueJS 的调试](https://github.com/coconilu/Blog/issues/96)
+7. - [x] [VueJS API](https://github.com/coconilu/Blog/issues/67)
+8. - [x] [VueJS 全家桶](https://github.com/coconilu/Blog/issues/111)
+
+### 关于React
+1. - [x] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
+2. - [x] [React 进阶](https://github.com/coconilu/Blog/issues/100)
+3. - [ ] [React 原理部分](https://github.com/coconilu/Blog/issues/112)
+
 ### 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
 2. - [x] [NodeJS 编程模型](https://github.com/coconilu/Blog/issues/41)
@@ -132,22 +148,6 @@
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
 3. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
-
-### 关于VueJS
-1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
-2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
-3. - [x] [VueJS 的编译阶段到挂载节点](https://github.com/coconilu/Blog/issues/92)
-4. - [x] [VueJS 的模板引擎](https://github.com/coconilu/Blog/issues/91)
-5. - [x] [VueJS 的VNode](https://github.com/coconilu/Blog/issues/94)
-6. - [x] [VueJs 的组件化](https://github.com/coconilu/Blog/issues/93)
-6. - [x] [VueJS 的调试](https://github.com/coconilu/Blog/issues/96)
-7. - [x] [VueJS API](https://github.com/coconilu/Blog/issues/67)
-8. - [x] [VueJS 全家桶](https://github.com/coconilu/Blog/issues/111)
-
-### 关于React
-1. - [x] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
-2. - [x] [React 进阶](https://github.com/coconilu/Blog/issues/100)
-3. - [ ] [React 原理部分](https://github.com/coconilu/Blog/issues/112)
 
 ### 关于GraphQL
 
