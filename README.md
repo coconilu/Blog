@@ -102,7 +102,8 @@
 5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
 6. - [x] [FLIP 动画](https://github.com/coconilu/Blog/issues/105)
 7. - [x] [动画队列](https://github.com/coconilu/Blog/issues/106)
-8. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
+8. - [x] [页面生命周期](https://github.com/coconilu/Blog/issues/121)
+9. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
 ### 前端业务场景
 
