@@ -31,6 +31,12 @@
 
 ### [从“浏览器输入URL后”说起](https://github.com/coconilu/Blog/issues/120)
 
+### 关于网络和安全
+1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
+2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
+3. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+4. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
+
 ### 关于“浏览器运行原理”的系列博客
 
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
@@ -40,12 +46,6 @@
 5. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
    - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
 6. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
-
-### 关于网络和安全
-1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
-2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-3. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
-4. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
 ### 关于 “进阶JavaScript”的系列博客
 
