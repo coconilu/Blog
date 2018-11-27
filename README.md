@@ -35,7 +35,7 @@
    - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
 4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 5. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
-6. [x] [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+6. [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
 
 ### 关于网络和安全
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
