@@ -33,11 +33,11 @@
 
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
 2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
-3. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
+3. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
+4. [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+5. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
    - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
-4. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
-5. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
-6. [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
+6. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
 
 ### 关于网络和安全
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
