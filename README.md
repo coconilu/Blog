@@ -37,6 +37,25 @@
 3. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
 4. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
+### 关于专业基本功
+
+1. 计算机组成
+2. 操作系统
+3. 数据库
+
+#### 数据结构与算法
+##### 1. JavaScript实现的排序算法
+1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
+2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
+3. - [x] [插入排序](https://gist.github.com/coconilu/328a84764b15ec359d143fbd1a614a51)
+4. - [x] [选择排序](https://gist.github.com/coconilu/cdd13940a6bd8f28c4bd6ab0d226b8dd)
+5. - [x] [希尔排序](https://gist.github.com/coconilu/8cc56b37479070c6b6edacfd2eea995a)
+6. - [x] [递归排序](https://gist.github.com/coconilu/0bc68ea5099292bbc1aca7d48e0d5e40)
+7. - [x] [快速排序](https://gist.github.com/coconilu/8e814ac4238ac2fe3a6bf5113a685237)
+
+##### 2. 其他有意思的算法
+1. - [ ] 数组洗牌效果
+
 ### 关于“浏览器运行原理”的系列博客
 
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
@@ -158,19 +177,6 @@
 
 - [ ] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
 - [ ] lodash
-
-### 数据结构与算法
-#### 1. JavaScript实现的排序算法
-1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
-2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
-3. - [x] [插入排序](https://gist.github.com/coconilu/328a84764b15ec359d143fbd1a614a51)
-4. - [x] [选择排序](https://gist.github.com/coconilu/cdd13940a6bd8f28c4bd6ab0d226b8dd)
-5. - [x] [希尔排序](https://gist.github.com/coconilu/8cc56b37479070c6b6edacfd2eea995a)
-6. - [x] [递归排序](https://gist.github.com/coconilu/0bc68ea5099292bbc1aca7d48e0d5e40)
-7. - [x] [快速排序](https://gist.github.com/coconilu/8e814ac4238ac2fe3a6bf5113a685237)
-
-#### 2. 其他有意思的算法
-1. - [ ] 数组洗牌效果
 
 ## :video_game: 工具
 
