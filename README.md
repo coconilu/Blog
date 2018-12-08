@@ -39,11 +39,14 @@
 
 ### 关于专业基本功
 
-1. 计算机组成
-2. 操作系统
-3. 数据库
+#### 计算机组成
+
+#### 操作系统
+
+#### 数据库
 
 #### 数据结构与算法
+
 ##### 1. JavaScript实现的排序算法
 1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
 2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
