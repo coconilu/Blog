@@ -127,6 +127,12 @@
 8. - [x] [页面生命周期](https://github.com/coconilu/Blog/issues/121)
 9. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
+#### 5. 优化指南
+
+1. 网络方面
+2. 浏览器方面
+3. 服务器方面
+
 ### 前端业务场景
 
 1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
