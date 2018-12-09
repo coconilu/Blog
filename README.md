@@ -234,9 +234,9 @@
 
 - [ ] [Google 开发者工具使用指南](https://github.com/coconilu/Blog/issues/119)
 - [x] [Devtools 设备模式](https://github.com/coconilu/Blog/issues/124)
-- [ ] [Devtools 元素模板](https://github.com/coconilu/Blog/issues/125)
-- [ ] [Devtools 控制台面板](https://github.com/coconilu/Blog/issues/126)
-- [ ] [Devtools 源代码面板](https://github.com/coconilu/Blog/issues/127)
+- [x] [Devtools 元素模板](https://github.com/coconilu/Blog/issues/125)
+- [x] [Devtools 控制台面板](https://github.com/coconilu/Blog/issues/126)
+- [x] [Devtools 源代码面板](https://github.com/coconilu/Blog/issues/127)
 - [ ] [Devtools 网络面板](https://github.com/coconilu/Blog/issues/128)
 - [ ] [Devtools 性能面板](https://github.com/coconilu/Blog/issues/129)
 - [ ] [Devtools 内存面板](https://github.com/coconilu/Blog/issues/130)
