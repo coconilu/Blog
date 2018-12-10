@@ -203,7 +203,7 @@
 #### Webpack
 
 - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
-- [ ] [Webpack 进阶功能](https://github.com/coconilu/Blog/issues/123)
+- [x] [Webpack 进阶功能](https://github.com/coconilu/Blog/issues/123)
 - [x] [webpack-dev-server 原理探讨](https://github.com/coconilu/Blog/issues/115)
 - [x] [Webpack相关课题（持续更新）](https://github.com/coconilu/Blog/issues/122)
 - [x] [常用Loaders和Plugins（持续更新）](https://github.com/coconilu/Blog/issues/89)
