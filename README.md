@@ -141,7 +141,8 @@
 4. - [x] [翻牌效果](https://github.com/coconilu/Blog/issues/107)
 5. - [x] [拖拽专题](https://github.com/coconilu/Blog/issues/108)
 6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
-6. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
+7. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
+8. 借助history api优化浏览器前进后退
 
 ### 关于VueJS
 1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
