@@ -185,7 +185,7 @@
 
 ### 关于JS第三方工具库
 
-- [ ] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
+- [x] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
 - [ ] lodash
 
 ## :video_game: 工具
