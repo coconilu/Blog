@@ -33,13 +33,16 @@
 
 ### 关于网络和安全
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
-2. - [ ] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
-2. - [ ] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
-2. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
-2. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
-2. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-3. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
-4. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
+2. - [ ] [数据链路层](https://github.com/coconilu/Blog/issues/140)
+3. - [ ] [IP 协议](https://github.com/coconilu/Blog/issues/139)
+4. - [ ] [TCP 协议](https://github.com/coconilu/Blog/issues/138)
+5. - [ ] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
+6. - [ ] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
+7. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
+8. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
+9. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
+10. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+11. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
 ### 关于专业基本功
 
