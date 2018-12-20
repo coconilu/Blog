@@ -39,7 +39,7 @@
 5. - [x] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
 6. - [ ] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
 7. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
-6. - [ ] [网络模型中的其它协议](https://github.com/coconilu/Blog/issues/141)
+6. - [ ] [网络模型中的其它协议（持续更新）](https://github.com/coconilu/Blog/issues/141)
 8. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
 9. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
 10. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
