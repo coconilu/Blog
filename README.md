@@ -37,7 +37,7 @@
 3. - [ ] [IP 协议](https://github.com/coconilu/Blog/issues/139)
 4. - [ ] [TCP 协议](https://github.com/coconilu/Blog/issues/138)
 5. - [x] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
-6. - [ ] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
+6. - [x] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
 7. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
 6. - [ ] [网络模型中的其它协议（持续更新）](https://github.com/coconilu/Blog/issues/141)
 8. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
