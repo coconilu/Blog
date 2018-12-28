@@ -257,6 +257,10 @@
 
 - [ ] [wireshark 使用手册](https://github.com/coconilu/Blog/issues/133)
 
+#### 代理工具
+
+- [ ] SwitchyOmega 使用手册
+
 ### 4. 服务器相关
 
 #### Nginx
