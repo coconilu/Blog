@@ -187,7 +187,7 @@
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
 4. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
-5. - [ ] [Yarn 使用手册](https://github.com/coconilu/Blog/issues/142)
+5. - [x] [Yarn 使用手册](https://github.com/coconilu/Blog/issues/142)
 
 ### 关于GraphQL
 
