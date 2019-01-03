@@ -183,6 +183,7 @@
 ### 关于包管理器
 
 1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
+1. - [x] [配置 NPM](https://github.com/coconilu/Blog/issues/143)
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
 3. - [x] [NPM与工作流](https://github.com/coconilu/Blog/issues/77)
 4. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
