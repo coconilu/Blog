@@ -7,26 +7,6 @@
 <p align="right">—— 致敬《断舍离》</p>
 -->
 
-## :trophy: 开源贡献
-
-### 社区活动
-
-#### 翻译活动
-
-1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
-2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
-
-#### [NPM 开源共享库](https://www.npmjs.com/~coconilu)
-
-1. [@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
-2. [my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
-3. [my-flip-animation](https://www.npmjs.com/package/my-flip-animation)
-4. [sticky-polyfill](https://www.npmjs.com/package/sticky-polyfill)
-
-### 开源项目
-
-1. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
-
 ## :books: 思维宫殿
 
 ### [从“浏览器输入URL后”说起](https://github.com/coconilu/Blog/issues/120)
@@ -279,6 +259,26 @@
 6. - [ ] 《前端工程化：体系设计与实践》
 7. - [ ] 《深入浅出 Webpack》
 -->
+
+## :trophy: 开源贡献
+
+### 社区活动
+
+#### 翻译活动
+
+1. [参与MDN翻译](https://developer.mozilla.org/en-US/profiles/sunline.bucket)
+2. [掘金翻译计划](https://github.com/coconilu/Blog/issues/36)
+
+#### [NPM 开源共享库](https://www.npmjs.com/~coconilu)
+
+1. [@coconilu/mypromise](https://www.npmjs.com/package/@coconilu/mypromise)
+2. [my-lazyload-picture](https://www.npmjs.com/package/my-lazyload-picture)
+3. [my-flip-animation](https://www.npmjs.com/package/my-flip-animation)
+4. [sticky-polyfill](https://www.npmjs.com/package/sticky-polyfill)
+
+### 开源项目
+
+1. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
 
 # 勘误与改进
 
