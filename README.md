@@ -132,6 +132,7 @@
 6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
 7. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
 8. 借助history api优化浏览器前进后退
+9. - [ ] [JS生成图片方案](https://github.com/coconilu/Blog/issues/146)
 
 ### 关于VueJS
 1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
