@@ -73,7 +73,8 @@
 - - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
 - - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
 - - [x] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
-- - [ ] [抽象语法树）](https://github.com/coconilu/Blog/issues/145)
+- - [ ] [抽象语法树](https://github.com/coconilu/Blog/issues/145)
+- - [ ] [JS 切面编程](https://github.com/coconilu/Blog/issues/148)
 
 ### 关于 “Web编程模型” 的系列博客
 
