@@ -163,6 +163,7 @@
 9. - [x] [Express和Koa的对比](https://github.com/coconilu/Blog/issues/83)
 10. - [ ] [NodeJS 集群](https://github.com/coconilu/Blog/issues/117)
 11. - [ ] [Node 与视频流媒体](https://github.com/coconilu/Blog/issues/149)
+12. - [ ] [pm2 使用手册](https://github.com/coconilu/Blog/issues/151)
 
 ### 关于包管理器
 
@@ -250,6 +251,7 @@
 #### 抓包工具
 
 - [ ] [wireshark 使用手册](https://github.com/coconilu/Blog/issues/133)
+- [ ] [Fiddler 使用手册](https://github.com/coconilu/Blog/issues/150)
 
 #### 代理工具
 
