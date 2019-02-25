@@ -263,6 +263,7 @@
 #### Nginx
 
 - [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
+- [ ] [Nginx 配置小结](https://github.com/coconilu/Blog/issues/153)
 
 <!--
 ## 关于 JavaScript 的系列读书笔记
