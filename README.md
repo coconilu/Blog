@@ -75,7 +75,7 @@
 
 ### 关于 “前沿的JavaScript”系列博客
 
-- - [x] [虚拟DOM](https://github.com/coconilu/Blog/issues/65)
+- - [x] [虚拟DOM与diff算法](https://github.com/coconilu/Blog/issues/65)
 - - [x] [Snabbdom 官方文档翻译](https://github.com/coconilu/Blog/issues/152)
 - - [ ] [抽象语法树](https://github.com/coconilu/Blog/issues/145)
 - - [ ] [JS 切面编程](https://github.com/coconilu/Blog/issues/148)
