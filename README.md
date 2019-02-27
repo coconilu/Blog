@@ -107,6 +107,7 @@
 2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
 3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
 4. - [x] [Web API参考](https://github.com/coconilu/Blog/issues/24)
+5. - [x] [WebAPI 字节处理能力](https://github.com/coconilu/Blog/issues/154)
 
 #### 4. 综合模块
 
