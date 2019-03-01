@@ -221,6 +221,7 @@
 #### Babel
 
 - [x] [Babel 运行过程](https://github.com/coconilu/Blog/issues/102)
+- [x] [Babel API](https://github.com/coconilu/Blog/issues/156)
 
 #### Travis CI
 
