@@ -215,7 +215,7 @@
 - [x] [webpack-dev-server 原理探讨](https://github.com/coconilu/Blog/issues/115)
 - [x] [Webpack相关课题（持续更新）](https://github.com/coconilu/Blog/issues/122)
 - [x] [常用Loaders和Plugins（持续更新）](https://github.com/coconilu/Blog/issues/89)
-- [ ] [Webpack 与内存](https://github.com/coconilu/Blog/issues/147)
+- [x] [Webpack 与内存](https://github.com/coconilu/Blog/issues/147)
 - [ ] [webpack 与定制化编译过程](https://github.com/coconilu/Blog/issues/147)
 
 #### Babel
