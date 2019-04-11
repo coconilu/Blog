@@ -204,6 +204,7 @@
 
 - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
 - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
+- [ ] [git 场景](https://github.com/coconilu/Blog/issues/157)
 - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
 
 ### 3. 构建工具
