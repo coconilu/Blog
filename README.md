@@ -217,7 +217,7 @@
 - [x] [Webpack相关课题（持续更新）](https://github.com/coconilu/Blog/issues/122)
 - [x] [常用Loaders和Plugins（持续更新）](https://github.com/coconilu/Blog/issues/89)
 - [x] [Webpack 与内存](https://github.com/coconilu/Blog/issues/147)
-- [ ] [webpack 与定制化编译过程](https://github.com/coconilu/Blog/issues/147)
+- [ ] webpack 与定制化编译过程
 
 #### Babel
 
@@ -245,7 +245,7 @@
 
 #### Google开发者工具
 
-- [ ] [Google 开发者工具使用指南](https://github.com/coconilu/Blog/issues/119)
+- [x] [Google 开发者工具使用指南](https://github.com/coconilu/Blog/issues/119)
 - [x] [Devtools 设备模式](https://github.com/coconilu/Blog/issues/124)
 - [x] [Devtools 元素模板](https://github.com/coconilu/Blog/issues/125)
 - [x] [Devtools 控制台面板](https://github.com/coconilu/Blog/issues/126)
