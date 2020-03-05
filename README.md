@@ -251,7 +251,7 @@
 - [x] [Devtools 控制台面板](https://github.com/coconilu/Blog/issues/126)
 - [x] [Devtools 源代码面板](https://github.com/coconilu/Blog/issues/127)
 - [x] [Devtools 网络面板](https://github.com/coconilu/Blog/issues/128)
-- [ ] [Devtools 性能面板](https://github.com/coconilu/Blog/issues/129)
+- [x] [Devtools 性能面板](https://github.com/coconilu/Blog/issues/129)
 - [ ] [Devtools 内存面板](https://github.com/coconilu/Blog/issues/130)
 - [ ] [Devtools 应用面板](https://github.com/coconilu/Blog/issues/131)
 - [ ] [Devtools 安全面板](https://github.com/coconilu/Blog/issues/132)
