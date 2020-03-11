@@ -228,6 +228,10 @@
 
 - [ ] [Travis CI 使用手册](https://github.com/coconilu/Blog/issues/118)
 
+#### 其它
+
+- [x] [source-map实践(https://github.com/coconilu/Blog/issues/160)
+
 ### 4. 开发测试工具
 
 #### VScode
