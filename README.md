@@ -1,116 +1,64 @@
-# Bayes 的博客
+# Bayes的博客
+这里记录了我的前端开发经验和在大厂里的前端工程化实践阅历。
 
-每个人都应该有自己的思维宫殿，它有利于我们面对复杂系统的时候，可以游刃有余地去理解它们。
-这些年来我收集了很多文章、博客，但我也是最近才想要仔细去把它们整理并串联起来，希望能组成一个有层次感的知识宫殿。
-
-<!--
-<p align="right">—— 致敬《断舍离》</p>
--->
-
-## :books: 思维宫殿
-
-### [从“浏览器输入URL后”说起](https://github.com/coconilu/Blog/issues/120)
-
-### 关于网络和安全
+## 网络和安全
+1. - [x] [从“浏览器输入URL后”说起](https://github.com/coconilu/Blog/issues/120)
 1. - [x] [网络模型](https://github.com/coconilu/Blog/issues/97)
-2. - [ ] [数据链路层](https://github.com/coconilu/Blog/issues/140)
-3. - [ ] [IP 协议](https://github.com/coconilu/Blog/issues/139)
-4. - [ ] [TCP 协议](https://github.com/coconilu/Blog/issues/138)
-5. - [x] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
-6. - [x] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
-7. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
-6. - [ ] [网络模型中的其它协议（持续更新）](https://github.com/coconilu/Blog/issues/141)
-8. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
-9. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
-10. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
-11. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
+2. - [x] [HTTP 协议](https://github.com/coconilu/Blog/issues/135)
+3. - [x] [HTTPS 协议](https://github.com/coconilu/Blog/issues/137)
+4. - [x] [HTTP2 协议](https://github.com/coconilu/Blog/issues/134)
+5. - [x] [认证用户身份](https://github.com/coconilu/Blog/issues/136)
+6. - [x] [Web 安全专题](https://github.com/coconilu/Blog/issues/38)
+7. - [x] [OAUTH 2.0](https://github.com/coconilu/Blog/issues/58)
+8. - [x] [JSON Web Token](https://github.com/coconilu/Blog/issues/110)
 
-### 关于专业基本功
+## 前端体系
 
-#### 计算机组成
-
-#### 操作系统
-
-#### 数据库
-
-#### 数据结构与算法
-
-##### 1. JavaScript实现的排序算法
-1. - [x] [校验排序算法的算法](https://gist.github.com/coconilu/f4d7c22f8056eecf7b4376f688389073)
-2. - [x] [冒泡排序](https://gist.github.com/coconilu/e2bb8340729dfc3fa89a2e00fd76ffb9)
-3. - [x] [插入排序](https://gist.github.com/coconilu/328a84764b15ec359d143fbd1a614a51)
-4. - [x] [选择排序](https://gist.github.com/coconilu/cdd13940a6bd8f28c4bd6ab0d226b8dd)
-5. - [x] [希尔排序](https://gist.github.com/coconilu/8cc56b37479070c6b6edacfd2eea995a)
-6. - [x] [递归排序](https://gist.github.com/coconilu/0bc68ea5099292bbc1aca7d48e0d5e40)
-7. - [x] [快速排序](https://gist.github.com/coconilu/8e814ac4238ac2fe3a6bf5113a685237)
-
-##### 2. 其他有意思的算法
-1. - [ ] 数组洗牌效果
-
-### 关于“浏览器运行原理”的系列博客
-
+### 1. 关于浏览器
 1. [浏览器运行原理概述](https://github.com/coconilu/Blog/issues/47)
 2. [资源加载和页面渲染](https://github.com/coconilu/Blog/issues/48)
 3. [浏览器缓存机制](https://github.com/coconilu/Blog/issues/113)
 4. [同源策略与跨域请求](https://github.com/coconilu/Blog/issues/59)
-5. [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
-   - [V8 引擎](https://github.com/coconilu/Blog/issues/49)
-6. [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
+5.  [页面生命周期](https://github.com/coconilu/Blog/issues/121)
 
-### 关于 “进阶的JavaScript”系列博客
+### 2. 关于JS引擎
+1. - [x] [JavaScript 引擎](https://github.com/coconilu/Blog/issues/45)
+2. - [x] [V8 引擎](https://github.com/coconilu/Blog/issues/49)
+3. - [x] [异步编程与事件循环](https://github.com/coconilu/Blog/issues/7)
+4. - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
+5. - [x] [虚拟DOM与diff算法](https://github.com/coconilu/Blog/issues/65)
+6. - [x] [Snabbdom 官方文档翻译](https://github.com/coconilu/Blog/issues/152)
+7. - [ ] [抽象语法树](https://github.com/coconilu/Blog/issues/145)
+8. - [ ] [JS 切面编程](https://github.com/coconilu/Blog/issues/148)
 
-- - [x] [类相关](https://github.com/coconilu/Blog/issues/9)
-- - [x] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
-- - [x] [JS 常用操作符](https://github.com/coconilu/Blog/issues/72)
-- - [x] [JS 常用数据结构](https://github.com/coconilu/Blog/issues/71)
-- - [x] [JS 可迭代对象、迭代器、生成器](https://github.com/coconilu/Blog/issues/73)
-- - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
-- - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
-- - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
-- - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
-- - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
-- - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
-- - [X] [深究Function.prototype.bind](https://github.com/coconilu/Blog/issues/12)
-- - [x] [JS 编程技巧（持续更新）](https://github.com/coconilu/Blog/issues/46)
 
-### 关于 “前沿的JavaScript”系列博客
-
-- - [x] [虚拟DOM与diff算法](https://github.com/coconilu/Blog/issues/65)
-- - [x] [Snabbdom 官方文档翻译](https://github.com/coconilu/Blog/issues/152)
-- - [ ] [抽象语法树](https://github.com/coconilu/Blog/issues/145)
-- - [ ] [JS 切面编程](https://github.com/coconilu/Blog/issues/148)
-
-### 关于 “Web编程模型” 的系列博客
-
-- [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
-
-#### 1. HTML模块
-
+### 3. 编程基础
+1. - [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
 1. - [x] [HTML概述](https://github.com/coconilu/Blog/issues/34)
-2. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
-
-#### 2. CSS 模块
-
-1. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
+1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
+2. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
 2. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
-3. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
-4. - [x] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
-5. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
-6. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
-6. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
-7. - [x] [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
-7. - [x] [CSS 工程化](https://github.com/coconilu/Blog/issues/144)
+2. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
+2. - [x] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
+3. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
+3. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
+3. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
+3. - [x] [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
+3. - [x] [CSS 工程化](https://github.com/coconilu/Blog/issues/144)
+3. - [x] [JS 类相关](https://github.com/coconilu/Blog/issues/9)
+3. - [x] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
+3. - [x] [JS 常用操作符](https://github.com/coconilu/Blog/issues/72)
+3. - [x] [JS 常用数据结构](https://github.com/coconilu/Blog/issues/71)
+3. - [x] [JS 可迭代对象、迭代器、生成器](https://github.com/coconilu/Blog/issues/73)
+3. - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
+3. - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
+3. - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
+3. - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
+3. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
+3. - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
+9. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
 
-#### 3. WebAPI 模块
-
-1. - [X] [WebAPI 概述](https://github.com/coconilu/Blog/issues/35)
-2. - [X] [DOM 模型](https://github.com/coconilu/Blog/issues/21)
-3. - [x] [DOM的事件模型](https://github.com/coconilu/Blog/issues/22)
-4. - [x] [Web API参考](https://github.com/coconilu/Blog/issues/24)
-5. - [x] [WebAPI 字节处理能力](https://github.com/coconilu/Blog/issues/154)
-
-#### 4. 综合模块
-
+### 4. 交互模块
 1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
 2. - [x] [上传文件](https://github.com/coconilu/Blog/issues/109)
 2. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
@@ -119,17 +67,6 @@
 5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
 6. - [x] [FLIP 动画](https://github.com/coconilu/Blog/issues/105)
 7. - [x] [动画队列](https://github.com/coconilu/Blog/issues/106)
-8. - [x] [页面生命周期](https://github.com/coconilu/Blog/issues/121)
-9. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
-
-#### 5. 优化指南
-
-1. 网络方面
-2. 浏览器方面
-3. 服务器方面
-
-### 前端业务场景
-
 1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
 2. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
 3. - [x] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
@@ -137,10 +74,12 @@
 5. - [x] [拖拽专题](https://github.com/coconilu/Blog/issues/108)
 6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
 7. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
-8. 借助history api优化浏览器前进后退
+8. - [ ] 借助history api优化浏览器前进后退
 9. - [ ] [JS生成图片方案](https://github.com/coconilu/Blog/issues/146)
 
-### 关于VueJS
+### 5. 框架介绍
+
+#### 关于VueJS
 1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
 2. - [x] [VueJS 响应式原理及简单实现](https://github.com/coconilu/Blog/issues/75)
 3. - [x] [VueJS 的编译阶段到挂载节点](https://github.com/coconilu/Blog/issues/92)
@@ -156,7 +95,22 @@
 2. - [x] [React 进阶](https://github.com/coconilu/Blog/issues/100)
 3. - [ ] [React 原理部分](https://github.com/coconilu/Blog/issues/112)
 
-### 关于NodeJS
+
+
+### 6. 优化指南
+
+## 前端工程化
+
+### 1. 前端工程化实践
+1. [前端工程化概述](https://zhuanlan.zhihu.com/p/101235426)
+2. [前端工程项目结构](https://zhuanlan.zhihu.com/p/101143106)
+3. [前端工作流](https://zhuanlan.zhihu.com/p/101080514)
+4. [前端开发环境](https://zhuanlan.zhihu.com/p/101185246)
+5. [前后端通信](https://zhuanlan.zhihu.com/p/101245303)
+6. [提交-构建-部署](https://zhuanlan.zhihu.com/p/101352933)
+7. [前端监控](https://zhuanlan.zhihu.com/p/101306616)
+
+### 2. 关于NodeJS
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
 2. - [x] [NodeJS 编程模型](https://github.com/coconilu/Blog/issues/41)
 3. - [x] [基础模块](https://github.com/coconilu/Blog/issues/42)
@@ -166,12 +120,6 @@
 7. - [x] [Express源码解析](https://github.com/coconilu/Blog/issues/82)
 8. - [x] [Koa源码解析](https://github.com/coconilu/Blog/issues/81)
 9. - [x] [Express和Koa的对比](https://github.com/coconilu/Blog/issues/83)
-10. - [ ] [NodeJS 集群](https://github.com/coconilu/Blog/issues/117)
-11. - [ ] [Node 与视频流媒体](https://github.com/coconilu/Blog/issues/149)
-12. - [ ] [pm2 使用手册](https://github.com/coconilu/Blog/issues/151)
-
-### 关于包管理器
-
 1. - [x] [NPM 指令大全](https://github.com/coconilu/Blog/issues/78)
 1. - [x] [配置 NPM](https://github.com/coconilu/Blog/issues/143)
 2. - [x] [NPM 上传自己的项目](https://github.com/coconilu/Blog/issues/79)
@@ -179,38 +127,15 @@
 4. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
 5. - [x] [Yarn 使用手册](https://github.com/coconilu/Blog/issues/142)
 
-### 关于GraphQL
-
+### 3. 工具篇
 - [x] [GraphQL 速记手册](https://github.com/coconilu/Blog/issues/104)
-
-### 关于JS第三方工具库
-
 - [x] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
-- [ ] lodash
-
-## :video_game: 工具
-
-### 1. 设计工具
-
-#### Ant Design
-
-#### Fusion Design
-
-#### NG-ZORRO
-
-### 2. 版本管理工具
-
-#### Git
-
 - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
 - [x] [git常用API](https://github.com/coconilu/Blog/issues/55)
-- [ ] [git 场景](https://github.com/coconilu/Blog/issues/157)
+- [x] [git 案例(持续更新)](https://github.com/coconilu/Blog/issues/157)
 - [x] [GitHub Flow](https://github.com/coconilu/Blog/issues/56)
-
-### 3. 构建工具
-
-#### Webpack
-
+- [x] [Babel 运行过程](https://github.com/coconilu/Blog/issues/102)
+- [x] [Babel API](https://github.com/coconilu/Blog/issues/156)
 - [x] [WebPack模型](https://github.com/coconilu/Blog/issues/87)
 - [x] [Webpack 进阶功能](https://github.com/coconilu/Blog/issues/123)
 - [x] [webpack-dev-server 原理探讨](https://github.com/coconilu/Blog/issues/115)
@@ -218,37 +143,11 @@
 - [x] [常用Loaders和Plugins（持续更新）](https://github.com/coconilu/Blog/issues/89)
 - [x] [Webpack 与内存](https://github.com/coconilu/Blog/issues/147)
 - [ ] webpack 与定制化编译过程
-
-#### Babel
-
-- [x] [Babel 运行过程](https://github.com/coconilu/Blog/issues/102)
-- [x] [Babel API](https://github.com/coconilu/Blog/issues/156)
-
-#### Travis CI
-
-- [ ] [Travis CI 使用手册](https://github.com/coconilu/Blog/issues/118)
-
-#### 其它
-
-- [x] [source-map实践(https://github.com/coconilu/Blog/issues/160)
-
-### 4. 开发测试工具
-
-#### VScode
-
+- [x] [source-map实践](https://github.com/coconilu/Blog/issues/160)
 - [x] [vscode 设置默认终端为bash](https://github.com/coconilu/Blog/issues/80)
 - [x] [vscode 开发插件](https://github.com/coconilu/Blog/issues/90)
-
-#### Jest
-
-- [x] [Jest 速记手册](https://github.com/coconilu/Blog/issues/103)
-
-#### TypeScript
-
-- [x] [TypeScript 速记手册](https://github.com/coconilu/Blog/issues/101)
-
-#### Google开发者工具
-
+- [x] [Jest 简介](https://github.com/coconilu/Blog/issues/103)
+- [x] [TypeScript 简介](https://github.com/coconilu/Blog/issues/101)
 - [x] [Google 开发者工具使用指南](https://github.com/coconilu/Blog/issues/119)
 - [x] [Devtools 设备模式](https://github.com/coconilu/Blog/issues/124)
 - [x] [Devtools 元素模板](https://github.com/coconilu/Blog/issues/125)
@@ -259,34 +158,9 @@
 - [ ] [Devtools 内存面板](https://github.com/coconilu/Blog/issues/130)
 - [ ] [Devtools 应用面板](https://github.com/coconilu/Blog/issues/131)
 - [ ] [Devtools 安全面板](https://github.com/coconilu/Blog/issues/132)
-
-#### 抓包工具
-
-- [ ] [wireshark 使用手册](https://github.com/coconilu/Blog/issues/133)
-- [ ] [Fiddler 使用手册](https://github.com/coconilu/Blog/issues/150)
-
-#### 代理工具
-
-- [ ] SwitchyOmega 使用手册
-
-### 5. 服务器相关
-
-#### Nginx
-
-- [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
 - [x] [Protocol Buffers原理解析](https://github.com/coconilu/Blog/issues/159)
-- [ ] [Nginx 配置小结](https://github.com/coconilu/Blog/issues/153)
+- [x] [前端与Nginx](https://github.com/coconilu/Blog/issues/76)
 
-<!--
-## 关于 JavaScript 的系列读书笔记
-1. - [ ] 《JavaScript 语言精粹》
-2. - [ ] 《高性能 JavaScript》
-3. - [ ] 《数据结构与算法 JavaScript描述》
-4. - [ ] 《JavaScript 设计模式》
-5. - [ ] 《JavaScript 框架设计》
-6. - [ ] 《前端工程化：体系设计与实践》
-7. - [ ] 《深入浅出 Webpack》
--->
 
 ## :trophy: 开源贡献
 
@@ -307,6 +181,7 @@
 ### 开源项目
 
 1. [管理GitHub的stars](https://github.com/coconilu/iGitStar)
+2. [source-map查看器](https://github.com/coconilu/sourcemap-watch)
 
 # 勘误与改进
 
