@@ -55,7 +55,7 @@
 7. - [x] [VueJS API](https://github.com/coconilu/Blog/issues/67)
 8. - [x] [VueJS 全家桶](https://github.com/coconilu/Blog/issues/111)
 
-### 关于React
+#### 关于React
 1. - [x] [React 运行过程](https://github.com/coconilu/Blog/issues/99)
 2. - [x] [React 进阶](https://github.com/coconilu/Blog/issues/100)
 3. - [ ] [React 原理部分](https://github.com/coconilu/Blog/issues/112)
@@ -90,7 +90,7 @@
 4. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
 5. - [x] [Yarn 使用手册](https://github.com/coconilu/Blog/issues/142)
 
-### 3. 工具
+### 8. 工具
 1. - [x] [GraphQL 速记手册](https://github.com/coconilu/Blog/issues/104)
 1. - [x] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
 1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
