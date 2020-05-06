@@ -39,53 +39,10 @@
 7. - [ ] [抽象语法树](https://github.com/coconilu/Blog/issues/145)
 8. - [ ] [JS 切面编程](https://github.com/coconilu/Blog/issues/148)
 
+### 3. 前端基础知识储备
+- [x] [前端基础知识储备](https://github.com/coconilu/Blog/issues/162)
 
-### 3. 编程基础
-1. - [x] [Web编程模型概述](https://github.com/coconilu/Blog/issues/23)
-1. - [x] [HTML概述](https://github.com/coconilu/Blog/issues/34)
-1. - [x] [HTML标签及属性](https://github.com/coconilu/Blog/issues/20)
-2. - [x] [CSS 概述](https://github.com/coconilu/Blog/issues/28)
-2. - [x] [CSS 基础](https://github.com/coconilu/Blog/issues/26)
-2. - [x] [CSS 收集解析模型](https://github.com/coconilu/Blog/issues/18)
-2. - [x] [CSS 盒模型](https://github.com/coconilu/Blog/issues/25)
-3. - [x] [CSS 布局相关](https://github.com/coconilu/Blog/issues/17)
-3. - [x] [CSS 行内元素排版原理](https://github.com/coconilu/Blog/issues/61)
-3. - [x] [CSS 样式检索](https://github.com/coconilu/Blog/issues/27)
-3. - [x] [CSS 进阶内容（持续更新）](https://github.com/coconilu/Blog/issues/29)
-3. - [x] [CSS 工程化](https://github.com/coconilu/Blog/issues/144)
-3. - [x] [JS 类相关](https://github.com/coconilu/Blog/issues/9)
-3. - [x] [JS 常用对象和全局对象的常用方法](https://github.com/coconilu/Blog/issues/70)
-3. - [x] [JS 常用操作符](https://github.com/coconilu/Blog/issues/72)
-3. - [x] [JS 常用数据结构](https://github.com/coconilu/Blog/issues/71)
-3. - [x] [JS 可迭代对象、迭代器、生成器](https://github.com/coconilu/Blog/issues/73)
-3. - [x] [JS 函数式编程](https://github.com/coconilu/Blog/issues/62)
-3. - [x] [JS 元编程](https://github.com/coconilu/Blog/issues/68)
-3. - [x] [JS 设计模式](https://github.com/coconilu/Blog/issues/69)
-3. - [x] [防抖和节流](https://github.com/coconilu/Blog/issues/64)
-3. - [x] [ES6 要点](https://github.com/coconilu/Blog/issues/60)
-3. - [x] [用代码讲述Promise原理——每个人都应该有自己的Promise](https://github.com/coconilu/myPromise)
-9. - [x] [前端开发需要注意的一些细节（持续更新）](https://github.com/coconilu/Blog/issues/98)
-
-### 4. 交互模块
-1. - [X] [Web交互的关键：提交表单](https://github.com/coconilu/Blog/issues/30)
-2. - [x] [上传文件](https://github.com/coconilu/Blog/issues/109)
-2. - [x] [position: sticky的polyfill](https://github.com/coconilu/Blog/issues/31)
-3. - [x] [实现缓慢回到顶部](https://github.com/coconilu/Blog/issues/44)
-4. - [x] [网页关键数据与坐标](https://github.com/coconilu/Blog/issues/63)
-5. - [x] [响应式布局](https://github.com/coconilu/Blog/issues/74)
-6. - [x] [FLIP 动画](https://github.com/coconilu/Blog/issues/105)
-7. - [x] [动画队列](https://github.com/coconilu/Blog/issues/106)
-1. - [x] [懒加载图片](https://github.com/coconilu/my-lazyload-picture)
-2. - [x] [预加载图片](https://github.com/coconilu/Blog/issues/85)
-3. - [x] [弹幕效果](https://github.com/coconilu/Blog/issues/86)
-4. - [x] [翻牌效果](https://github.com/coconilu/Blog/issues/107)
-5. - [x] [拖拽专题](https://github.com/coconilu/Blog/issues/108)
-6. - [x] [雪碧图](https://github.com/coconilu/Blog/issues/114)
-7. - [x] [Canvas 经典案例（持续更新）](https://github.com/coconilu/Blog/issues/37)
-8. - [ ] 借助history api优化浏览器前进后退
-9. - [ ] [JS生成图片方案](https://github.com/coconilu/Blog/issues/146)
-
-### 5. 框架介绍
+### 4. 框架研究
 
 #### 关于VueJS
 1. - [x] [VueJS 运行过程](https://github.com/coconilu/Blog/issues/19)
@@ -105,7 +62,7 @@
 
 
 
-### 6. 优化指南
+### 5. 优化指南
 
 ## 前端工程化
 
