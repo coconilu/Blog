@@ -64,9 +64,7 @@
 
 ### 5. 优化指南
 
-## 前端工程化
-
-### 1. 前端工程化实践
+### 6. 前端工程化实践
 1. [前端工程化概述](https://zhuanlan.zhihu.com/p/101235426)
 2. [前端工程项目结构](https://zhuanlan.zhihu.com/p/101143106)
 3. [前端工作流](https://zhuanlan.zhihu.com/p/101080514)
@@ -75,7 +73,7 @@
 6. [提交-构建-部署](https://zhuanlan.zhihu.com/p/101352933)
 7. [前端监控](https://zhuanlan.zhihu.com/p/101306616)
 
-### 2. 关于NodeJS
+### 7. NodeJS研究
 1. - [x] [NodeJS 运行原理](https://github.com/coconilu/Blog/issues/43)
 2. - [x] [NodeJS 编程模型](https://github.com/coconilu/Blog/issues/41)
 3. - [x] [基础模块](https://github.com/coconilu/Blog/issues/42)
@@ -92,7 +90,7 @@
 4. - [x] [NPM技巧收集（持续更新）](https://github.com/coconilu/Blog/issues/88)
 5. - [x] [Yarn 使用手册](https://github.com/coconilu/Blog/issues/142)
 
-### 3. 工具篇
+### 3. 工具
 1. - [x] [GraphQL 速记手册](https://github.com/coconilu/Blog/issues/104)
 1. - [x] [axios 核心源码解读](https://github.com/coconilu/Blog/issues/116)
 1. - [x] [git模型](https://github.com/coconilu/Blog/issues/54)
