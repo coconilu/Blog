@@ -12,6 +12,9 @@
 ## 业务
 1. - [x] [性能优化](https://github.com/coconilu/Blog/issues/167)
 
+## 社区贡献
+1. - [x] [easy-inspector](https://github.com/coconilu/easy-inspector)，Easy-Inspector是一个chrome插件（开发者工具），借助它，你可以修改请求头和响应头，并且把被处理的请求收集起来，方便分析。
+
 ## 归档
 [前端思维宫殿1.0](https://github.com/coconilu/Blog/issues/171)
 
