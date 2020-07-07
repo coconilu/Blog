@@ -17,7 +17,7 @@
 
 ## 社区贡献
 1. - [x] [easy-inspector](https://github.com/coconilu/easy-inspector)，Easy-Inspector是一个chrome插件（开发者工具），借助它，你可以修改请求头和响应头，并且把被处理的请求收集起来，方便分析。
-2. - [x] [code-dance](https://github.com/coconilu/easy-inspector)，代码演示工具，突出代码改动部分。会对比前后传入的代码片段，尽量保留未改动的代码段，移除不存在的代码段，添加新的代码段。
+2. - [x] [code-dance](https://github.com/coconilu/code-dance)，代码演示工具，突出代码改动部分。会对比前后传入的代码片段，尽量保留未改动的代码段，移除不存在的代码段，添加新的代码段。
 
 ## 归档
 [前端思维宫殿1.0](https://github.com/coconilu/Blog/issues/171)
