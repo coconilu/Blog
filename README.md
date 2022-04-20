@@ -2,14 +2,17 @@
 
 > 关于前端工程项目管理的经验分享
 
-## 项目管理中的样式管理
+## 样式管理
 
-## 项目管理中的类型管理
+[如何管理项目中的CSS？](https://github.com/coconilu/Blog/issues/174)
 
+## 类型管理
 
+[如何管理项目中的TypeScript？](https://github.com/coconilu/Blog/issues/175)
 
 ## 归档
 [前端思维宫殿1.0](https://github.com/coconilu/Blog/issues/171)
+
 [前端思维宫殿2.0](https://github.com/coconilu/Blog/issues/173)
 
 # 勘误与改进
