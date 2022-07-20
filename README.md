@@ -2,6 +2,8 @@
 
 > 关于前端工程项目管理的经验分享
 
+[代码格式的选择，ESM可以使用了么？](https://github.com/coconilu/Blog/issues/176)
+
 ## 样式管理
 
 [如何管理项目中的CSS？](https://github.com/coconilu/Blog/issues/174)
