@@ -2,7 +2,7 @@
 
 > 关于前端工程项目管理的经验分享
 
-[代码格式的选择，ESM可以使用了么？](https://github.com/coconilu/Blog/issues/176)
+[代码格式的选择，ESM可以使用了么？](https://www.yuque.com/bayes-otxkg/ua5839/ha7r1r)
 
 ## 样式管理
 
