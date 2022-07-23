@@ -2,15 +2,11 @@
 
 > 关于前端工程项目管理的经验分享
 
-[代码格式的选择，ESM可以使用了么？](https://www.yuque.com/bayes-otxkg/ua5839/ha7r1r)
+- [x] [代码格式的选择，ESM可以使用了么？](https://www.yuque.com/bayes-otxkg/ua5839/ha7r1r)
 
-## 样式管理
+- [ ] [如何管理项目中的CSS？](https://github.com/coconilu/Blog/issues/174)
 
-[如何管理项目中的CSS？](https://github.com/coconilu/Blog/issues/174)
-
-## 类型管理
-
-[如何管理项目中的TypeScript？](https://github.com/coconilu/Blog/issues/175)
+- [ ] [如何管理项目中的TypeScript？](https://github.com/coconilu/Blog/issues/175)
 
 ## 归档
 [前端思维宫殿1.0](https://github.com/coconilu/Blog/issues/171)
